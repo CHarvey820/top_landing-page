@@ -1,0 +1,20 @@
+/* Given Styles */
+:root{
+    /* Colors */
+    --clr-dkBlue:#1F2937;
+    --clr-ltGray: #E5E7EB;
+    --clr-white:#F9FAF8;
+    --clr-ltBlue:#3882F6;
+    --clr-dkGray:#1F2937;
+}
+
+/* CSS reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
